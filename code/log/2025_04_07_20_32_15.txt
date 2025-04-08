@@ -1,0 +1,278 @@
+2025-04-07 20:32:16,412 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:32:16,426 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:32:16,692 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:32:18,269 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:32:18,270 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:32:18,270 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:32:19,124 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:32:19,125 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:32:19,147 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:32:19,147 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 0.05min
+2025-04-07 20:41:46,985 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:41:46,999 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:41:47,320 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:41:48,883 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:41:48,883 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:41:48,883 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:41:49,737 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:41:49,738 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:41:49,755 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:41:49,755 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 9.56min
+2025-04-07 20:41:51,027 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:41:51,041 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:41:51,321 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:41:52,909 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:41:52,909 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:41:52,909 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:41:53,700 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:41:53,701 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:41:53,721 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:41:53,721 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 9.62min
+2025-04-07 20:41:54,960 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:41:54,977 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:41:55,251 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:41:56,770 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:41:56,770 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:41:56,770 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:41:57,609 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:41:57,609 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:41:57,631 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:41:57,631 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 9.69min
+2025-04-07 20:41:58,867 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:41:58,881 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:41:59,111 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:42:00,722 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:42:00,722 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:42:00,722 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:42:01,484 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:42:01,485 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:42:01,503 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:42:01,503 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 9.75min
+2025-04-07 20:42:02,743 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:42:02,758 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:42:03,021 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:42:04,596 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:42:04,596 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:42:04,596 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:42:05,444 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:42:05,444 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:42:05,463 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:42:05,463 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 9.82min
+2025-04-07 20:42:06,735 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:42:06,749 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:42:07,046 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:42:08,608 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:42:08,609 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:42:08,609 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:42:09,483 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:42:09,483 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:42:09,502 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:42:09,502 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 9.88min
+2025-04-07 20:43:26,340 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:43:26,356 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:43:26,638 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:43:28,221 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:43:28,222 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:43:28,222 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:43:29,078 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:43:29,078 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:43:29,103 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:43:29,103 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 11.21min
+2025-04-07 20:43:30,477 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:43:30,490 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:43:30,682 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:43:32,302 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:43:32,302 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:43:32,302 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:43:33,090 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:43:33,090 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:43:33,110 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:43:33,110 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 11.28min
+2025-04-07 20:43:34,399 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:43:34,416 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:43:34,668 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:43:36,256 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:43:36,256 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:43:36,256 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:43:37,159 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:43:37,159 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:43:37,178 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:43:37,178 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 11.35min
+2025-04-07 20:43:38,489 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:43:38,507 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:43:38,773 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:43:40,340 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:43:40,340 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:43:40,340 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:43:41,138 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:43:41,138 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:43:41,161 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:43:41,161 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 11.41min
+2025-04-07 20:43:42,411 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:43:42,432 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:43:42,716 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:43:44,304 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:43:44,304 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:43:44,304 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:43:45,095 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:43:45,095 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:43:45,115 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:43:45,115 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 11.48min
+2025-04-07 20:43:46,332 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:43:46,345 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:43:46,556 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:43:48,140 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:43:48,140 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:43:48,140 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:43:48,959 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:43:48,959 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:43:48,979 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:43:48,979 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 11.54min
+2025-04-07 20:44:25,089 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:44:25,103 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:44:25,380 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:44:27,008 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:44:27,008 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:44:27,008 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:44:27,819 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:44:27,819 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:44:27,839 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:44:27,839 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 12.19min
+2025-04-07 20:44:29,108 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:44:29,125 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:44:29,444 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:44:31,054 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:44:31,055 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:44:31,055 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:44:31,855 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:44:31,855 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:44:31,875 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:44:31,875 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 12.26min
+2025-04-07 20:44:33,145 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:44:33,157 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:44:33,441 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:44:35,100 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:44:35,101 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:44:35,101 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:44:35,916 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:44:35,917 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:44:35,938 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:44:35,939 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 12.33min
+2025-04-07 20:44:37,387 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:44:37,401 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:44:37,626 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:44:39,253 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:44:39,254 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:44:39,254 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:44:40,047 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:44:40,047 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:44:40,069 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:44:40,069 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 12.39min
+2025-04-07 20:44:41,314 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:44:41,331 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:44:41,611 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:44:43,259 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:44:43,260 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:44:43,260 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:44:44,070 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:44:44,071 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:44:44,087 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:44:44,087 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 12.46min
+2025-04-07 20:44:45,371 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:44:45,386 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:44:45,659 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:44:47,349 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:44:47,349 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:44:47,349 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:44:48,196 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:44:48,196 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2025-04-07 20:44:48,216 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:44:48,216 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 12.53min
+2025-04-07 20:46:52,054 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:46:52,070 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:47:30,885 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:48:09,634 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:48:09,652 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:48:14,205 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:48:50,287 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:48:50,288 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:48:50,288 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:49:24,541 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:49:24,542 - opt_solve_SAT.py[line:197] - INFO:Total cost = 141.0
+
+2025-04-07 20:49:24,900 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:49:24,900 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 1.25min
+2025-04-07 20:49:25,902 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:49:26,051 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:49:31,750 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:50:03,799 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:50:03,800 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:50:03,800 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:50:30,073 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:50:30,073 - opt_solve_SAT.py[line:197] - INFO:Total cost = 124.0
+
+2025-04-07 20:50:30,424 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:50:30,424 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 1.08min
+2025-04-07 20:50:31,442 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:50:31,584 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:50:35,397 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:51:05,883 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:51:05,883 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:51:05,883 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:51:36,653 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:51:36,653 - opt_solve_SAT.py[line:197] - INFO:Total cost = 117.0
+
+2025-04-07 20:51:37,002 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:51:37,003 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 1.09min
+2025-04-07 20:51:38,031 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:51:38,195 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:51:43,411 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:52:12,851 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:52:12,851 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:52:12,851 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:52:47,250 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:52:47,250 - opt_solve_SAT.py[line:197] - INFO:Total cost = 111.0
+
+2025-04-07 20:52:47,610 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:52:47,610 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 1.16min
+2025-04-07 20:52:48,637 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:52:48,796 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:52:52,466 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:53:20,969 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:53:20,970 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:53:20,970 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:53:45,897 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:53:45,897 - opt_solve_SAT.py[line:197] - INFO:Total cost = 111.0
+
+2025-04-07 20:53:46,277 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:53:46,277 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 0.96min
+2025-04-07 20:53:47,276 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2025-04-07 20:53:47,413 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2025-04-07 20:53:52,608 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2025-04-07 20:54:21,561 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2025-04-07 20:54:21,561 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2025-04-07 20:54:21,561 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2025-04-07 20:54:45,379 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2025-04-07 20:54:45,379 - opt_solve_SAT.py[line:197] - INFO:Total cost = 111.0
+
+2025-04-07 20:54:45,741 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2025-04-07 20:54:45,742 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 0.97min

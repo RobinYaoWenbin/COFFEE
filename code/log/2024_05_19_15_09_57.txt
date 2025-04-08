@@ -1,0 +1,12 @@
+2024-05-19 15:09:58,121 - utils.py[line:157] - INFO:NumExpr defaulting to 8 threads.
+2024-05-19 15:09:58,627 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2024-05-19 15:09:58,699 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2024-05-19 15:09:59,300 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2024-05-19 15:10:02,495 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2024-05-19 15:10:02,495 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2024-05-19 15:10:02,495 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2024-05-19 15:10:04,517 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2024-05-19 15:10:04,517 - opt_solve_SAT.py[line:197] - INFO:Total cost = 10.0
+
+2024-05-19 15:10:04,597 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2024-05-19 15:10:04,597 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 0.1min

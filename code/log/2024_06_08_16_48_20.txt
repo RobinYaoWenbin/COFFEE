@@ -1,0 +1,11 @@
+2024-06-08 16:48:21,391 - opt_solve_SAT.py[line:70] - INFO:Constructor completed
+2024-06-08 16:48:21,412 - opt_solve_SAT.py[line:78] - INFO:Declaration solver completed
+2024-06-08 16:48:21,822 - opt_solve_SAT.py[line:122] - INFO:Define variables completed
+2024-06-08 16:48:23,799 - opt_solve_SAT.py[line:176] - INFO:Create constraint completed
+2024-06-08 16:48:23,800 - opt_solve_SAT.py[line:181] - INFO:Create objective function completed
+2024-06-08 16:48:23,801 - opt_solve_SAT.py[line:185] - INFO:Start solving
+2024-06-08 16:48:25,040 - opt_solve_SAT.py[line:192] - INFO:Solve completed
+2024-06-08 16:48:25,040 - opt_solve_SAT.py[line:197] - INFO:Total cost = 9.0
+
+2024-06-08 16:48:25,067 - opt_solve_SAT.py[line:231] - INFO:Result organization completed
+2024-06-08 16:48:25,067 - opt_solve_SAT.py[line:246] - INFO:Program execution time: 0.06min
