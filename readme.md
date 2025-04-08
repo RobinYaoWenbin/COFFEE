@@ -31,19 +31,19 @@ It should be noted that with the sample data in this repository, all code can be
 
 First, we need to evaluate the effectiveness of the traffic demand management strategies, specifically the TDM evaluation model mentioned in the manuscript. The implementation and results of this algorithm are presented in the file "MFD and Evaluation of Traffic Demand Management.ipynb." As described in the data, we conducted a random sampling of 10% of the OD data; therefore, the road network load in the TDM evaluation model is only about 1/10 of the true data. Although a 10% random sample was taken, the distribution of the road network load is indeed the same as the overall data, and the performance and results of the algorithm can accurately reflect the overall outcomes. The traffic state simulation results obtained in Hangzhou are shown in the figure below (the road network load is only about 1/10 of the true load, and the average speed of the road network is based on the actual data):
 
-![Traffic State Simulation Results for Hangzhou](D:\WorkFile\ResearchProjects\analysis_of_IBTDM\COFFEE_10percent\figures\Traffic State Simulation Results for Hangzhou.png)
+![Traffic State Simulation Results for Hangzhou].\figures\Traffic State Simulation Results for Hangzhou.png)
 
 ### 2. Divide the sample set into sub sample sets of the same distribution
 
 Directly using the COFFEE framework to perform peak-shifting on all data cannot be achieved even on a server due to the excessive number of optimization variables. Therefore, it is necessary to divide the sample set into sub-sample sets with the same distribution. This step is implemented in the file "Divide the sample set into sub sample sets of the same distribution.ipynb." The results of the division are shown in the figure below:
 
-![dataset split results](D:\WorkFile\ResearchProjects\analysis_of_IBTDM\COFFEE_10percent\figures\dataset split results.png)
+![dataset split results](.\figures\dataset split results.png)
 
 ### 3. Analysis of acceptance of COFFEE and analysis of its effectiveness based on acceptance
 
 First, based on the survey data, we analyze the willingness of travelers of different travel behavior to adjust their departure times. Then, using the obtained willingness to adjust departure times, we derive the distribution of willingness for all trips, ensuring that this distribution matches that obtained from the survey. On this basis, we can utilize the COFFEE framework to perform peak-shifting for trips. Since this is only for demonstration purposes, we randomly sampled 2000 trips from each sub-sample set during the execution of the mixed-integer linear programming model to facilitate optimization; otherwise, it would be difficult to execute successfully on a personal computer. The results of the optimization are shown in the figure below (it is important to emphasize that two sampling steps were conducted: the first sampling involved a 10% random sample of the entire dataset, and the second sampling involved selecting 2000 trips from each optimization subset). The figure below has not undergone the TDM evaluation model. In the ipynb file, we provide the code; however, it does not generate results similar to those in the manuscript. This is because the TDM evaluation model was only subjected to a single sampling, while the optimization model involved two rounds of sampling. Therefore, the results obtained cannot match each other. If both were to match, we could achieve results similar to those in the manuscript.
 
-![COFFEE effect](D:\WorkFile\ResearchProjects\analysis_of_IBTDM\COFFEE_10percent\figures\COFFEE effect.png)
+![COFFEE effect](.\figures\COFFEE effect.png)
 
 ### 4. Analysis  of  Travel Time Changes  in  Seven  Cities
 
